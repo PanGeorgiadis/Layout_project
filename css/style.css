@@ -100,6 +100,7 @@ a{
 
 main{
     grid-area: content;
+    padding-bottom: 45px;
 }
 
 footer{
@@ -110,10 +111,6 @@ footer{
     background-color: transparent;
     padding-top: 20px;
     padding-bottom: 10px;
-}
-
-main{
-    padding-bottom: 45px;
 }
 
 p{
